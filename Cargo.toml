@@ -1,0 +1,8 @@
+[package]
+name = "wit-parser-merge-issue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+wit-parser = "0.214.0"
